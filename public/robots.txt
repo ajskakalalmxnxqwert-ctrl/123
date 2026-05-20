@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snapdownloader.com/sitemap.xml
